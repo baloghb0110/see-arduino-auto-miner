@@ -100,7 +100,7 @@ void executeCommand(String command) {
       Mouse.press(MOUSE_LEFT);
       delay(d);
       Mouse.release(MOUSE_LEFT);
-      delay(200);
+      delay(10);
       Serial.println("done"); 
     }
     else{
