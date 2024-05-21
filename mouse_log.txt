@@ -37,4 +37,4 @@ mouse,left,press,800
 down,60,200
 right,4,200
 mouse,right,release,0
-move,360
+move,370
